@@ -9,38 +9,38 @@ const { LatLng, LatLngBounds } = sdkTypes;
 // `predictionPlace` (util.types.place) properties.
 export default [
   {
-    id: 'default-helsinki',
+    id: 'default-destin',
     predictionPlace: {
-      address: 'Helsinki, Finland',
-      bounds: new LatLngBounds(new LatLng(60.29783, 25.25448), new LatLng(59.92248, 24.78287)),
+      address: 'Destin, Florida',
+      bounds: new LatLngBounds(new LatLng(30.3982093, -86.5265382), new LatLng(30.3935337, -86.4957833)),
     },
   },
   {
-    id: 'default-turku',
+    id: 'default-miamibeach',
     predictionPlace: {
-      address: 'Turku, Finland',
-      bounds: new LatLngBounds(new LatLng(60.53045, 22.38197), new LatLng(60.33361, 22.06644)),
+      address: 'Miami Beach, Florida',
+      bounds: new LatLngBounds(new LatLng(25.8102246, -80.2103539), new LatLng(25.790654, -80.1300455)),
     },
   },
   {
-    id: 'default-tampere',
+    id: 'default-clearwater',
     predictionPlace: {
-      address: 'Tampere, Finland',
-      bounds: new LatLngBounds(new LatLng(61.83657, 24.11838), new LatLng(61.42728, 23.5422)),
+      address: 'Clear Water, Florida',
+      bounds: new LatLngBounds(new LatLng(27.9925827, -82.8176108), new LatLng(27.9658533, -82.8001026)),
     },
   },
   {
-    id: 'default-oulu',
+    id: 'default-panamacity',
     predictionPlace: {
-      address: 'Oulu, Finland',
-      bounds: new LatLngBounds(new LatLng(65.56434, 26.77069), new LatLng(64.8443, 24.11494)),
+      address: 'Panama City, Florida',
+      bounds: new LatLngBounds(new LatLng(30.2309048, -85.9423013), new LatLng(30.1765914, -85.8054879)),
     },
   },
   {
-    id: 'default-ruka',
+    id: 'default-sanibelisland',
     predictionPlace: {
-      address: 'Ruka, Finland',
-      bounds: new LatLngBounds(new LatLng(66.16997, 29.16773), new LatLng(66.16095, 29.13572)),
+      address: 'Sanibel Island, Florida',
+      bounds: new LatLngBounds(new LatLng(26.4866158, -82.1773239), new LatLng(26.4433972, -82.1115119)),
     },
   },
 ];
