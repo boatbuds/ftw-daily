@@ -63,7 +63,7 @@ const SectionLocations = props => {
         {locationLink(
           'Clear Water',
           clearwaterImage,
-          '?address=Florida%2C%20United%20States%20of%20America&bounds=31.000968999989%2C-79.9313803005511%2C24.4303400087635%2C-87.6348969887475'
+          '?address=Ruka%2C%20Finland&bounds=66.1704578%2C29.14246849999995%2C66.1614402%2C29.110453699999994&origin=66.16594940000002%2C29.12646110000003'
         )}
       </div>
     </div>
