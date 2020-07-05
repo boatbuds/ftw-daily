@@ -25,6 +25,6 @@ app.use(
 app.use(cookieParser());
 app.use('/api', apiRouter);
 
-app.listen(process.env.PORT || 3000, () => {
+app.listen(process.env.PORT, () => {
   console.log(`API server listening on ${PORT}`);
 });

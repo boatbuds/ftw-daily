@@ -257,7 +257,7 @@ if (cspEnabled) {
   });
 }
 
-app.listen(process.env.PORT || 3000, () => {
+app.listen(process.env.PORT, () => {
   const mode = dev ? 'development' : 'production';
   console.log(`Listening to port ${PORT} in ${mode} mode`);
   if (dev) {
