@@ -44,7 +44,7 @@ const FaqPage = () => {
             <div className={css.contentMain}>
             <h2>General Questions</h2>
             <p><strong>What does boatbuds do?</strong></p>
-            <p>Our marketplace is a platform that allows anyone to create an account in minutes, discover boats, request a time, book, and receive confirmation without any hassles. For captains, we make it easy to add your boat, manage booking requests, message directly with mates, and accept booking requests. As a company, we operate the online platform, market boats to artists, support our community, and ensure that both sides have the best experience possible.</p>
+            <p>Our marketplace is a platform that allows anyone to create an account in minutes, discover boats, request a time, book, and receive confirmation without any hassles. For captains, we make it easy to add your boat, manage booking requests, message directly with mates, and accept booking requests. As a company, we operate the online platform, market boats, support our community, and ensure that both sides have the best experience possible.</p>
 
             <h2>boats</h2>
             <p><strong>Is a booking request binding?</strong></p>
