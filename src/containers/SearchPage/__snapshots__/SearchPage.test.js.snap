@@ -117,10 +117,6 @@ exports[`SearchPageComponent matches snapshot 1`] = `
                   "label": "Audiovisual entertainment",
                 },
                 Object {
-                  "key": "barbeque",
-                  "label": "Barbeque",
-                },
-                Object {
                   "key": "own_food_allowed",
                   "label": "Own food allowed",
                 },

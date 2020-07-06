@@ -85,9 +85,9 @@ export const filters = [
       // Note: label is not added through the translation files
       // to make filter customizations a bit easier.
       options: [
-        { key: 'smoke', label: 'Smoke' },
-        { key: 'electric', label: 'Electric' },
-        { key: 'wood', label: 'Wood' },
+        { key: 'fishing', label: 'Fishing' },
+        { key: 'cuddy', label: 'Cuddy' },
+        { key: 'watercraft', label: 'WaterCraft' },
         { key: 'other', label: 'Other' },
       ],
     },
@@ -117,24 +117,20 @@ export const filters = [
           label: 'Bathroom',
         },
         {
-          key: 'swimming_pool',
-          label: 'Swimming pool',
+          key: 'floats_tubes',
+          label: 'floats and tubes',
         },
         {
           key: 'own_drinks',
           label: 'Own drinks allowed',
         },
         {
-          key: 'jacuzzi',
-          label: 'Jacuzzi',
+          key: 'life_jacket',
+          label: 'Life jacket',
         },
         {
           key: 'audiovisual_entertainment',
           label: 'Audiovisual entertainment',
-        },
-        {
-          key: 'barbeque',
-          label: 'Barbeque',
         },
         {
           key: 'own_food_allowed',

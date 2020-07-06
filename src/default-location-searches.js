@@ -12,35 +12,35 @@ export default [
     id: 'default-destin',
     predictionPlace: {
       address: 'Destin, Florida',
-      bounds: new LatLngBounds(new LatLng(30.3982093, -86.5265382), new LatLng(30.3935337, -86.4957833)),
+      bounds: new LatLngBounds(new LatLng(30.4207059976164, -86.3967756199359), new LatLng(30.3749996312813, -86.6005560167061)),
     },
   },
   {
     id: 'default-miamibeach',
     predictionPlace: {
       address: 'Miami Beach, Florida',
-      bounds: new LatLngBounds(new LatLng(25.8102246, -80.2103539), new LatLng(25.790654, -80.1300455)),
+      bounds: new LatLngBounds(new LatLng(25.8997138370259, -80.1101899961589), new LatLng(25.7476751717557, -80.1870835278838)),
     },
   },
   {
     id: 'default-clearwater',
     predictionPlace: {
       address: 'Clear Water, Florida',
-      bounds: new LatLngBounds(new LatLng(27.9925827, -82.8176108), new LatLng(27.9658533, -82.8001026)),
+      bounds: new LatLngBounds(new LatLng(28.0501430160811, -82.6267750783731), new LatLng(27.8646949872898, -82.8292269902566)),
     },
   },
   {
     id: 'default-panamacity',
     predictionPlace: {
       address: 'Panama City, Florida',
-      bounds: new LatLngBounds(new LatLng(30.2309048, -85.9423013), new LatLng(30.1765914, -85.8054879)),
+      bounds: new LatLngBounds(new LatLng(30.4406259261156, -85.709228040665), new LatLng(30.1623474255799, -86.0799209651102)),
     },
   },
   {
     id: 'default-sanibelisland',
     predictionPlace: {
       address: 'Sanibel Island, Florida',
-      bounds: new LatLngBounds(new LatLng(26.4866158, -82.1773239), new LatLng(26.4433972, -82.1115119)),
+      bounds: new LatLngBounds(new LatLng(26.45602130554143, -82.04469124722297), new LatLng(26.42008869445856, -82.08482075277703)),
     },
   },
 ];

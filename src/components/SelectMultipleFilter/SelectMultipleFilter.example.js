@@ -15,24 +15,20 @@ const options = [
     label: 'Bathroom',
   },
   {
-    key: 'swimming_pool',
-    label: 'Swimming pool',
+    key: 'floats_tubes',
+    label: 'floats and tubes',
   },
   {
     key: 'own_drinks',
     label: 'Own drinks allowed',
   },
   {
-    key: 'jacuzzi',
-    label: 'Jacuzzi',
+    key: 'life_jacket',
+    label: 'Life jacket',
   },
   {
     key: 'audiovisual_entertainment',
     label: 'Audiovisual entertainment',
-  },
-  {
-    key: 'barbeque',
-    label: 'Barbeque',
   },
   {
     key: 'own_food_allowed',
